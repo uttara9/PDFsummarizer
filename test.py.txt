@@ -9,7 +9,7 @@ from utils import *
 def main():
 	# Set page configurations
 	st.set_page_config(page_title="PDF Summarizer")
-
+	# Some changes
 
 	st.title("PDF Summarizing App") # Setting the title of the app
 	st.write("Summarize your pdf files in just a few seconds.") # Displaying a description
